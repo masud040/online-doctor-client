@@ -1,0 +1,161 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Alex White",
+    "specialist": "Dentist",
+    "image": "https://i.ibb.co/KsbXgHd/1.jpg",
+    "rating": 4.8,
+    "available": "Wed Nov 22 2023 10:00:00",
+    "price": 150,
+    "details": {
+      "location": "123 Main Street, Cityville",
+      "about": {
+        "description": "Dr. Alex White is a dedicated dentist with a passion for oral health.",
+        "education": "DDS, University of Dental Sciences",
+        "awards": ["Best Dentist 2022", "Outstanding Oral Care Award"],
+        "experience": "10+ years of experience in general dentistry.",
+        "services": [
+          "Teeth Cleaning",
+          "Fillings",
+          "Root Canals",
+          "Dental Crowns"
+        ],
+        "specification": "Specializes in preventive and restorative dentistry."
+      },
+      "reviews": [
+        {
+          "user": "Patient123",
+          "comment": "Excellent dentist! Very caring and thorough."
+        },
+        {
+          "user": "SmileFanatic",
+          "comment": "Beautiful results after my dental crown procedure."
+        },
+        {
+          "user": "HappyTeeth",
+          "comment": "Highly recommend for routine cleanings and checkups."
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "name": "Dr. Samantha Turner",
+    "specialist": "Neurologist",
+    "image": "https://i.ibb.co/7RFmkHr/4.jpg",
+    "rating": 4.5,
+    "available": "Thu Nov 23 2023 15:00:00",
+    "price": 200,
+    "details": {
+      "location": "456 Oak Avenue, Townsville",
+      "about": {
+        "description": "Dr. Samantha Turner is a skilled neurologist with a focus on brain health.",
+        "education": "MD, Neurology, Medical University",
+        "awards": [
+          "Top Neurologist 2021",
+          "Excellence in Neurological Research"
+        ],
+        "experience": "15+ years of experience in neurology.",
+        "services": [
+          "Neurological Examinations",
+          "MRI Interpretation",
+          "Headache Management"
+        ],
+        "specification": "Specializes in diagnosing and treating neurological disorders."
+      },
+      "reviews": [
+        {
+          "user": "BrainyWonder",
+          "comment": "Thorough neurological examination, explained everything clearly."
+        },
+        {
+          "user": "HeadacheFree",
+          "comment": "Effective treatment plan for my chronic headaches."
+        },
+        {
+          "user": "NeuroNerd",
+          "comment": "Dr. Turner is the best neurologist in town!"
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "name": "Dr. Mark Taylor",
+    "specialist": "Dermatologist",
+    "image": "https://i.ibb.co/t8cW3RP/6.jpg",
+    "rating": 4.2,
+    "available": "Wed Nov 22 2023 09:00:00",
+    "price": 180,
+    "details": {
+      "location": "789 Pine Lane, Villagetown",
+      "about": {
+        "description": "Dr. Mark Taylor is an experienced dermatologist committed to skin health.",
+        "education": "MD, Dermatology, University of Medical Sciences",
+        "awards": ["Best Dermatologist 2020", "Skin Care Excellence Award"],
+        "experience": "12+ years of experience in dermatology.",
+        "services": [
+          "Acne Treatment",
+          "Skin Cancer Screening",
+          "Cosmetic Procedures"
+        ],
+        "specification": "Specializes in medical and cosmetic dermatology."
+      },
+      "reviews": [
+        {
+          "user": "GlowingSkin",
+          "comment": "My acne cleared up after following Dr. Taylor's recommendations."
+        },
+        {
+          "user": "SkinCareFan",
+          "comment": "Professional and friendly service during my skin cancer screening."
+        },
+        {
+          "user": "DermatologyEnthusiast",
+          "comment": "Dr. Taylor is my go-to for all dermatological concerns."
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "name": "Dr. Jessica Miller",
+    "specialist": "Medicine Specialist",
+    "image": "https://i.ibb.co/GFjswrq/8.jpg",
+    "rating": 4.6,
+    "available": "Thu Nov 23 2023 09:00:00",
+    "price": 250,
+    "details": {
+      "location": "101 Maple Street, Hamletville",
+      "about": {
+        "description": "Dr. Jessica Miller is a compassionate medicine specialist providing comprehensive care.",
+        "education": "MD, Internal Medicine, City Medical School",
+        "awards": [
+          "Exemplary Service in Internal Medicine",
+          "Patient Choice Award"
+        ],
+        "experience": "18+ years of experience in internal medicine.",
+        "services": [
+          "Health Checkups",
+          "Chronic Disease Management",
+          "Medication Management"
+        ],
+        "specification": "Specializes in adult primary care and chronic disease management."
+      },
+      "reviews": [
+        {
+          "user": "WellnessSeeker",
+          "comment": "Thorough and caring approach during my health checkup."
+        },
+        {
+          "user": "ChronicCare",
+          "comment": "Dr. Miller effectively manages my chronic health conditions."
+        },
+        {
+          "user": "MedicationExpert",
+          "comment": "Great advice on managing medications for optimal health."
+        }
+      ]
+    }
+  }
+]

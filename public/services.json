@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "service_name": "Eye Care",
+    "service_details": "Comprehensive eye examinations, vision tests, and prescription for eyeglasses or contact lenses. While mirth large of on front. Ye he greater related adapted proceed entered an. Through it examine express promise no. Past add size game cold girl off how old word. An sincerity so extremity he additions. Her yet there truth merit. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law.",
+    "image": "https://i.ibb.co/DtnhdJj/1.jpg"
+  },
+  {
+    "id": "2",
+    "service_name": "Dental Care",
+    "service_details": "Professional dental cleanings, oral examinations, and treatments for dental issues. Proin dictum euismod accumsan. Ut a justo vitae orci tincidunt consequat. Fusce dapibus sapien nec mi placerat, ut varius ex laoreet. Integer euismod, odio in accumsan dapibus, nisl erat rhoncus est, a lacinia urna purus nec libero. Sed euismod arcu vel nisl rhoncus, vel venenatis justo aliquam. Vivamus fringilla purus sed bibendum tincidunt. Suspendisse quis libero et odio luctus fringilla et vel justo. Sed sit amet justo sit amet velit facilisis dignissim. In hac habitasse platea dictumst.",
+    "image": "https://i.ibb.co/FqsxbjY/2.jpg"
+  },
+  {
+    "id": "3",
+    "service_name": "Primary Care",
+    "service_details": "Routine health checkups, vaccinations, and management of common illnesses and chronic conditions. Vivamus at est eu tortor efficitur facilisis. Sed non ligula in lectus consectetur ultricies. Integer fermentum sagittis mauris, eu maximus odio suscipit a. Proin eget fermentum dui. Duis vel justo nec dui fringilla venenatis. Nulla facilisi. Aliquam ac mi eu elit tristique imperdiet. Sed interdum, ipsum vitae vestibulum aliquet, sapien libero hendrerit velit, sit amet malesuada nulla turpis vel nunc.",
+    "image": "https://i.ibb.co/Qrb86QB/3.jpg"
+  },
+  {
+    "id": "4",
+    "service_name": "Orthopaedics",
+    "service_details": "Specialized care for musculoskeletal issues, joint pain, and orthopedic conditions. Nullam vitae justo eu felis volutpat lacinia. Ut sed odio in ipsum cursus convallis. Vestibulum id ipsum quis velit scelerisque euismod. Integer ut commodo neque. Fusce fringilla, ex a tincidunt dignissim, mauris ex facilisis libero, ac congue libero dui a tellus. Suspendisse id accumsan elit. Sed consectetur, elit at commodo tincidunt, tortor odio bibendum mauris, quis posuere leo nisi vel nunc.",
+    "image": "https://i.ibb.co/3s6ncgS/4.jpg"
+  },
+  {
+    "id": "5",
+    "service_name": "Kidney Solution",
+    "service_details": "Consultation and treatment plans for kidney-related issues and renal health. Fusce tincidunt nulla eu mauris efficitur, vel accumsan dolor malesuada. Vestibulum vitae magna nec velit gravida rhoncus. Integer eget eros eu nulla dapibus auctor non eu mauris. Vestibulum ultricies mauris ut elit tincidunt, non tincidunt est pellentesque. Sed facilisis odio vel metus pharetra, eu aliquet libero blandit. Nunc vel luctus nisl. Fusce fringilla ultricies justo, eu dapibus odio convallis in. Curabitur euismod vel leo ut facilisis.",
+    "image": "https://i.ibb.co/stnnc68/5.jpg"
+  },
+  {
+    "id": "6",
+    "service_name": "Blood Test",
+    "service_details": "Comprehensive blood tests to assess various health indicators and identify potential health issues. Aenean ac augue sed nulla suscipit aliquet. Integer auctor dapibus ultricies. Sed cursus fringilla odio, id imperdiet dolor commodo in. Duis bibendum, ligula eu fringilla maximus, dui libero facilisis erat, vitae fermentum odio leo vel elit. Sed sollicitudin quam at fermentum cursus. Duis eu diam a justo sollicitudin gravida a at dui. Fusce ut urna lacinia, bibendum leo ac, euismod purus. Aliquam erat volutpat.",
+    "image": "https://i.ibb.co/cF7dz6f/6.jpg"
+  }
+]

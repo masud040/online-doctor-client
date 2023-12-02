@@ -1,3 +1,5 @@
+import Testimonials from "../../Testimonials/Testimonials";
+import Contact from "../../components/Contact/Contact";
 import Banner from "../../components/Home/Banner/Banner";
 import Doctors from "../../components/Home/Doctors/Doctors";
 import Features from "../../components/Home/Features/Features";
@@ -13,6 +15,8 @@ const Home = () => {
         <Features />
         <Services />
         <Doctors />
+        <Testimonials />
+        <Contact />
       </Container>
     </div>
   );

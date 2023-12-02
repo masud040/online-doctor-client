@@ -1,6 +1,5 @@
 [
   {
-    "id": 1,
     "name": "Dr. Alex White",
     "specialist": "Dentist",
     "image": "https://i.ibb.co/KsbXgHd/1.jpg",
@@ -8,9 +7,15 @@
     "available": "Wed Nov 22 2023 10:00:00",
     "price": 150,
     "details": {
-      "location": "123 Main Street, Cityville",
+      "location": {
+        "address": "456 Oak Avenue, Townsville",
+        "city": "Townsville",
+        "state": "Example State",
+        "zipCode": "67890",
+        "country": "Example Country"
+      },
       "about": {
-        "description": "Dr. Alex White is a dedicated dentist with a passion for oral health.",
+        "description": "Dedicated dentist Dr. Alex White, DDS from the University of Dental Sciences, offers 10+ years of experience in preventive and restorative dentistry. Located at 123 Main Street, Cityville, he excels in teeth cleaning, fillings, root canals, and dental crowns. Awarded 'Best Dentist 2022' and 'Outstanding Oral Care Award,' Dr. White has a 4.8 rating. Patient reviews highlight his caring and thorough approach. Available on Wed, Nov 22, 2023, starting at 10:00 AM for a fee of $150.",
         "education": "DDS, University of Dental Sciences",
         "awards": ["Best Dentist 2022", "Outstanding Oral Care Award"],
         "experience": "10+ years of experience in general dentistry.",
@@ -20,7 +25,13 @@
           "Root Canals",
           "Dental Crowns"
         ],
-        "specification": "Specializes in preventive and restorative dentistry."
+        "specification": "Specializes in preventive and restorative dentistry.",
+        "specializations": [
+          "Dental Care",
+          "General Dentistry",
+          "Tooth Extraction",
+          "Oral Health Education"
+        ]
       },
       "reviews": [
         {
@@ -39,7 +50,6 @@
     }
   },
   {
-    "id": 2,
     "name": "Dr. Samantha Turner",
     "specialist": "Neurologist",
     "image": "https://i.ibb.co/7RFmkHr/4.jpg",
@@ -47,9 +57,15 @@
     "available": "Thu Nov 23 2023 15:00:00",
     "price": 200,
     "details": {
-      "location": "456 Oak Avenue, Townsville",
+      "location": {
+        "address": "123 Main Street, Cityville",
+        "city": "Cityville",
+        "state": "Example State",
+        "zipCode": "12345",
+        "country": "Example Country"
+      },
       "about": {
-        "description": "Dr. Samantha Turner is a skilled neurologist with a focus on brain health.",
+        "description": "Dedicated dentist Dr. Alex White, DDS from the University of Dental Sciences, offers 10+ years of experience in preventive and restorative dentistry. Located at 123 Main Street, Cityville, he excels in teeth cleaning, fillings, root canals, and dental crowns. Awarded 'Best Dentist 2022' and 'Outstanding Oral Care Award,' Dr. White has a 4.8 rating. Patient reviews highlight his caring and thorough approach. Available on Wed, Nov 22, 2023, starting at 10:00 AM for a fee of $150.",
         "education": "MD, Neurology, Medical University",
         "awards": [
           "Top Neurologist 2021",
@@ -61,7 +77,13 @@
           "MRI Interpretation",
           "Headache Management"
         ],
-        "specification": "Specializes in diagnosing and treating neurological disorders."
+        "specification": " Townsville, she specializes in neurological examinations, MRI interpretation, and headache management.  ",
+        "specializations": [
+          "Orthodontist",
+          "Braces Installation",
+          "Invisalign Treatment",
+          "Orthodontic Consultations"
+        ]
       },
       "reviews": [
         {
@@ -80,7 +102,6 @@
     }
   },
   {
-    "id": 3,
     "name": "Dr. Mark Taylor",
     "specialist": "Dermatologist",
     "image": "https://i.ibb.co/t8cW3RP/6.jpg",
@@ -88,9 +109,15 @@
     "available": "Wed Nov 22 2023 09:00:00",
     "price": 180,
     "details": {
-      "location": "789 Pine Lane, Villagetown",
+      "location": {
+        "address": "789 Pine Lane, Villagetown",
+        "city": "Villagetown",
+        "state": "Example State",
+        "zipCode": "45678",
+        "country": "Example Country"
+      },
       "about": {
-        "description": "Dr. Mark Taylor is an experienced dermatologist committed to skin health.",
+        "description": "Experienced dermatologist Dr. Mark Taylor, MD in Dermatology from the University of Medical Sciences, offers 12+ years of expertise in medical and cosmetic dermatology. Located at 789 Pine Lane, Villagetown, he specializes in acne treatment, skin cancer screening, and cosmetic procedures. Awarded 'Best Dermatologist 2020' and 'Skin Care Excellence Award,' Dr. Taylor has a 4.2 rating. Patient reviews highlight his professional service and effective recommendations. Available on Wed, Nov 22, 2023, starting at 9:00 AM for a fee of $180.",
         "education": "MD, Dermatology, University of Medical Sciences",
         "awards": ["Best Dermatologist 2020", "Skin Care Excellence Award"],
         "experience": "12+ years of experience in dermatology.",
@@ -99,7 +126,13 @@
           "Skin Cancer Screening",
           "Cosmetic Procedures"
         ],
-        "specification": "Specializes in medical and cosmetic dermatology."
+        "specification": "Specializes in medical and cosmetic dermatology.",
+        "specializations": [
+          "Oral and Maxillofacial Surgery",
+          "Wisdom Teeth Removal",
+          "Facial Trauma Reconstruction",
+          "Orthognathic Surgery"
+        ]
       },
       "reviews": [
         {
@@ -118,7 +151,6 @@
     }
   },
   {
-    "id": 4,
     "name": "Dr. Jessica Miller",
     "specialist": "Medicine Specialist",
     "image": "https://i.ibb.co/GFjswrq/8.jpg",
@@ -126,9 +158,15 @@
     "available": "Thu Nov 23 2023 09:00:00",
     "price": 250,
     "details": {
-      "location": "101 Maple Street, Hamletville",
+      "location": {
+        "address": "101 Maple Street, Hamletville",
+        "city": "Hamletville",
+        "state": "Example State",
+        "zipCode": "78901",
+        "country": "Example Country"
+      },
       "about": {
-        "description": "Dr. Jessica Miller is a compassionate medicine specialist providing comprehensive care.",
+        "description": "Compassionate medicine specialist Dr. Jessica Miller, MD in Internal Medicine from City Medical School, provides comprehensive care with 18+ years of experience. Located at 101 Maple Street, Hamletville, she specializes in health checkups, chronic disease management, and medication management. Awarded for 'Exemplary Service in Internal Medicine' and 'Patient Choice Award,' Dr. Miller has a 4.6 rating. Patient reviews praise her thorough and caring approach, effective chronic condition management, and advice on optimal health. Available on Thu, Nov 23, 2023, starting at 9:00 AM for a fee of $250.",
         "education": "MD, Internal Medicine, City Medical School",
         "awards": [
           "Exemplary Service in Internal Medicine",
@@ -140,7 +178,13 @@
           "Chronic Disease Management",
           "Medication Management"
         ],
-        "specification": "Specializes in adult primary care and chronic disease management."
+        "specification": "Specializes in adult primary care and chronic disease management.",
+        "specializations": [
+          "Children Care",
+          "Pediatric Wellness",
+          "Vaccination for Kids",
+          "Developmental Pediatrics"
+        ]
       },
       "reviews": [
         {

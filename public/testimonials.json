@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/4VDQ3M0/download-1.jpg",
+    "service_name": "Telemedicine Consultation",
+    "description": "Schedule an online consultation with experienced doctors from the comfort of your home. Get professional medical advice and prescriptions without visiting a physical clinic.",
+    "user_name": "John Doe"
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/jyK874x/download-2.jpg",
+    "service_name": "Virtual Health Checkup",
+    "description": "Conduct a thorough health checkup remotely. Our platform allows you to monitor vital signs, share health data, and receive personalized recommendations for a healthier lifestyle.",
+    "user_name": "Jane Smith"
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/mHWfX2K/download-3.jpg",
+    "service_name": "Prescription Refill",
+    "description": "Easily renew your prescriptions online. Upload your existing prescriptions, and our doctors will review and provide a refill, ensuring continuity of your medication.",
+    "user_name": "Michael Johnson"
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/Lpbw6Mw/download-4.jpg",
+    "service_name": "Mental Health Support",
+    "description": "Access mental health professionals for therapy sessions and counseling. Our platform offers a secure and confidential environment for addressing your mental health needs.",
+    "user_name": "Emily Davis"
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/QXbxvd0/download-5.jpg",
+    "service_name": "Diet and Nutrition Consultation",
+    "description": "Consult with nutritionists to create a personalized diet plan. Receive expert advice on nutrition, weight management, and dietary recommendations tailored to your health goals.",
+    "user_name": "Daniel Anderson"
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/NLGCv0d/download-6.jpg",
+    "service_name": "Online Health Education",
+    "description": "Participate in webinars and interactive sessions to enhance your health knowledge. Learn about various medical conditions, preventive measures, and healthy living practices.",
+    "user_name": "Sophia Martinez"
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co/bLLfmTv/download-7.jpg",
+    "service_name": "Second Opinion Services",
+    "description": "Seek a second opinion on your medical condition. Connect with specialists to review your diagnosis and treatment plan, ensuring you make informed decisions about your health.",
+    "user_name": "Christopher Taylor"
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co/FBkp5Vw/download-8.jpg",
+    "service_name": "Chronic Disease Management",
+    "description": "Manage chronic conditions with personalized care plans. Our platform assists in monitoring and managing long-term health issues, improving overall well-being.",
+    "user_name": "Olivia Brown"
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co/dBjJnKH/download.jpg",
+    "service_name": "Pregnancy and Maternity Care",
+    "description": "Receive virtual prenatal care, postpartum support, and expert guidance throughout your pregnancy journey. Connect with experienced obstetricians and maternity specialists.",
+    "user_name": "William Garcia"
+  }
+]

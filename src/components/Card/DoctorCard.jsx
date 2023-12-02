@@ -6,9 +6,12 @@ import {
   FaStar,
 } from "react-icons/fa6";
 import { BsCurrencyDollar } from "react-icons/bs";
+
+import { Link } from "react-router-dom";
 const DoctorCard = ({ doctor }) => {
-  const { name, specialist, image, rating, available, price, details } =
+  const { _id, name, specialist, image, rating, available, price } =
     doctor || {};
+
   return (
     <div className="bg-slate-200 rounded-xl">
       <img src={image} className="rounded-xl" alt="" />
@@ -27,7 +30,7 @@ const DoctorCard = ({ doctor }) => {
         <div>
           <span className="flex items-center  gap-3">
             <FaLocationDot />
-            <p>{details?.location}</p>
+            <p>789 Pine Lane, Dhaka</p>
           </span>
           <span className="flex items-center  gap-3">
             <FaRegCalendar />
@@ -37,9 +40,11 @@ const DoctorCard = ({ doctor }) => {
             <BsCurrencyDollar />
             <p>{price}</p>
           </span>
-          <div className="text-center border border-rose-300 my-4 text-rose-400 hover:text-white hover:bg-rose-300 font-bold text-lg  p-2 rounded-lg">
-            <button className="">View Profile</button>
-          </div>
+          <Link to={`/profileDetails/${_id}`}>
+            <div className="text-center border border-rose-300 my-4 text-rose-400 hover:text-white hover:bg-rose-300 font-bold text-lg  p-2 rounded-lg">
+              <p>View Profile</p>
+            </div>
+          </Link>
         </div>
       </div>
     </div>
